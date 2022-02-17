@@ -1,0 +1,4 @@
+#include "recursos.h"
+
+VBOXICON16X16 ICON "vbox16x16.ico"
+VBOXICON32X32 ICON "vbox48x48.ico"
